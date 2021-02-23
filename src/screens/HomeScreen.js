@@ -113,7 +113,7 @@ export function HomeScreen({navigation}) {
 
          <View style={{height: height * 0.13, alignItems:'center', justifyContent: 'center', padding: 5}}>
           <TouchableOpacity
-            onPress={() => navigation.navigate('Details')}
+            onPress={() => navigation.navigate('ViewDetails')}
             activeOpacity={0.7}
             style={{ 
               width: width * 0.7,
