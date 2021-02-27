@@ -194,7 +194,6 @@
 				737751C5E20B2110545282EC /* Pods-petCare-tvOSTests.debug.xcconfig */,
 				B7071740EB9BE5ECEE8A512F /* Pods-petCare-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
